@@ -40,6 +40,7 @@ abstract class Computer {
 	// 고유 기능
 	// 컴퓨터의 종류마다 화면을 표시하는 방법과 타이핑하는 방법이 다름
 	public abstract void display();
+
 	public abstract void typing();
 }
 
